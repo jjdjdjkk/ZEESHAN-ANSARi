@@ -55,13 +55,13 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 /*============== NOMOR ==============*/
 global.nomorbot = '923111054738' //Nomor Bot
 global.nomorown = '923111054738' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.namebot = '𝐙𝐄𝐄𝐒𝐇𝐀𝐍-MD-v1' //Nama Bot
+global.nameown = '𝐙𝐄𝐄𝐒𝐇𝐀𝐍 MD🇵🇰' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923111054738', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
+  ['923111054738', '𝐙𝐄𝐄𝐒𝐇𝐀𝐍 MD🎐', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -93,12 +93,12 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ɪᴋʀᴀᴛᴏs 𝙱𝙾𝚃 汉  」' //Main Watermark
+global.wm = '                「 𝐙𝐄𝐄𝐒𝐇𝐀𝐍 𝙱𝙾𝚃 汉  」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ɪᴋʀᴀᴛᴏs 𝙱𝙾𝚃'
+global.wm3 = '⫹⫺ 𝐙𝐄𝐄𝐒𝐇𝐀𝐍 𝙱𝙾𝚃'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ 𝐙𝐄𝐄𝐒𝐇𝐀𝐍 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
