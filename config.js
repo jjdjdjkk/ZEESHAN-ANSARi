@@ -41,9 +41,9 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
+global.sig = 'https://instagram.com/itx_𝐙𝐄𝐄𝐒𝐇𝐀𝐍.😈' //Link Instagrammu
 global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
+global.sgc = 'https://chat.whatsapp.com/C0EyMaoWtqe8qoZGs6jmqF'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
@@ -55,7 +55,7 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 /*============== NOMOR ==============*/
 global.nomorbot = '923111054738' //Nomor Bot
 global.nomorown = '923111054738' //Nomor Owner
-global.namebot = '𝐙𝐄𝐄𝐒𝐇𝐀𝐍-MD-v1' //Nama Bot
+global.namebot = '""𝐙𝐄𝐄𝐒𝐇𝐀𝐍-MD-v1' //Nama Bot
 global.nameown = '𝐙𝐄𝐄𝐒𝐇𝐀𝐍 MD🇵🇰' // Nama Owner
 
 
@@ -65,7 +65,7 @@ global.owner = [
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923111054738','923111054738','923111054738'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['923111054738','923111054738','923111054738'] // Premium user is not here to add it, type .addprem @ user 10[
 
 
 global.lolkey = 'apikeymu'
@@ -94,7 +94,7 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 𝐙𝐄𝐄𝐒𝐇𝐀𝐍 𝙱𝙾𝚃 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝐙𝐄𝐄𝐒𝐇𝐀𝐍 😈- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ 𝐙𝐄𝐄𝐒𝐇𝐀𝐍 𝙱𝙾𝚃'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
@@ -366,9 +366,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'x_ikratos_x'
-global.stickauth = `☂︎\nAhmad Ali\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/923470027813`
+global.stickauth = `☂︎\𝐙𝐄𝐄𝐒𝐇𝐀𝐍 😈\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/923111054738`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝐙𝐄𝐄𝐒𝐇𝐀𝐍'
 
 global.multiplier = 38 // The higher, The harder levelup
 
