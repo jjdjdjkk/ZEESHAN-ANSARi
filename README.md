@@ -7,16 +7,16 @@
 
 > **Warning**: Don't Trade This Script
 
-<h1 align="center">Ikratos-MD-v1</h1>
+<h1 align="center">𝚭𝚵𝚵𝐒𝚮𝚫𝚴-MD-v5</h1>
 <p align="center">
-  <a href="https://github.com/xIKRATOSx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+Ahmad+Ali;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/Zeeshan"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=ZEESHAN+BOT+Multi+Device;Base+ori+by+ZEESHAN+ANSARI;Recode+By+ANSARI;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="IkratosBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="𝚭𝚵𝚵𝐒𝚮𝚫𝚴BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/xIKRATOSx"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Zeeshan"><img title="Author" src="https://img.shields.io/badge/AUTHOR-𝚭𝚵𝚵𝐒𝚮𝚫𝚴-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
@@ -60,7 +60,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://repl.it/github/xIKRATOSx/Ikratos-MD-v1)
+[![Run on Repl.it](https://repl.it/badge/github/𝚭𝚵𝚵𝐒𝚮𝚫𝚴/𝚭𝚵𝚵𝐒𝚮𝚫𝚴-MD-v5)](https://repl.it/github/𝚭𝚵𝚵𝐒𝚮𝚫𝚴/𝚭𝚵𝚵𝐒𝚮𝚫𝚴-MD-v5)
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
