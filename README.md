@@ -7,7 +7,7 @@
 
 > **Warning**: Don't Trade This Script
 
-<h1 align="center">𝚭𝚵𝚵𝐒𝚮𝚫𝚴-MD-v5</h1>
+<h1 align="center">ZEESHAN-ANSARI-MD-v5</h1>
 <p align="center">
   <a href="https://github.com/Zeeshan"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=ZEESHAN+BOT+Multi+Device;Base+ori+by+ZEESHAN+ANSARI;Recode+By+ANSARI;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
@@ -16,7 +16,7 @@
  <a href="#"><img title="𝚭𝚵𝚵𝐒𝚮𝚫𝚴BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Zeeshan"><img title="Author" src="https://img.shields.io/badge/AUTHOR-𝚭𝚵𝚵𝐒𝚮𝚫𝚴-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Zeeshan"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ZEESHAN-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
@@ -29,7 +29,7 @@
   </a> &nbsp;&nbsp;
 ---------
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923470027813) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923111054738) 
 ---------
 
 ### a little about this bot
@@ -60,7 +60,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/𝚭𝚵𝚵𝐒𝚮𝚫𝚴/𝚭𝚵𝚵𝐒𝚮𝚫𝚴-MD-v5)](https://repl.it/github/𝚭𝚵𝚵𝐒𝚮𝚫𝚴/𝚭𝚵𝚵𝐒𝚮𝚫𝚴-MD-v5)
+[![Run on Repl.it](https://repl.it/badge/github/ZEESHAN/ZEESHAN-MD-v5)](https://repl.it/github/ZEESHAN/ZEESHAN-MD-v5)
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
