@@ -7,7 +7,7 @@
 
 > **Warning**: Don't Trade This Script
 
-<h1 align="center">ZEESHAN-ANSARI-MD-v5</h1>
+<h1 align="center">ZEESHAN-ANSARI-MD-v1</h1>
 <p align="center">
   <a href="https://github.com/Zeeshan"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=ZEESHAN+BOT+Multi+Device;Base+ori+by+ZEESHAN+ANSARI;Recode+By+ANSARI;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
@@ -60,7 +60,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/ZEESHAN/ZEESHAN-MD-v5)](https://repl.it/github/ZEESHAN/ZEESHAN-MD-v5)
+[![Run on Repl.it](https://repl.it/badge/github/ZEESHAN/ZEESHAN-MD-v1)](https://repl.it/github/ZEESHAN/ZEESHAN-MD-v1)
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
