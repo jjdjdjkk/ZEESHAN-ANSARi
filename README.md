@@ -9,14 +9,14 @@
 
 <h1 align="center">ZEESHAN-ANSARI-MD-v1</h1>
 <p align="center">
-  <a href="https://github.com/Zeeshan"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=ZEESHAN+BOT+Multi+Device;Base+ori+by+ZEESHAN+ANSARI;Recode+By+ANSARI;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/Zeeshan"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Zeeshankaka+BOT+Multi+Device;Base+ori+by+Zeeshankaka+ANSARI;Recode+By+ANSARI;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
  <a href="#"><img title="𝚭𝚵𝚵𝐒𝚮𝚫𝚴BOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Zeeshan"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ZEESHAN-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Zeeshan"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Zeeshankaka-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
@@ -35,7 +35,7 @@
 ### a little about this bot
 - ✔️ | **Simple** 
 - ✔️ | **Button Template** 
-- ✔️ | **Multi Device** 
+- ✔️ | **Multi Device**
 - ✔️ | **Button Document(Experiment)** 
 ---------
 ### Some of the features include
