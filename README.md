@@ -60,7 +60,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/Zeeshankaka/ZEESHAN-MD-v1)](https://repl.it/github/ZEESHAN/ZEESHAN-MD-v1)
+[![Run on Repl.it](https://repl.it/badge/github/Zeeshankaka/ZEESHAN-MD-v1)](https://repl.it/github/Zeeshankaka/ZEESHAN-MD-v1)
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
